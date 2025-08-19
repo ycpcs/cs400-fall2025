@@ -20,11 +20,11 @@ title: Syllabus
 
 * **Team Work Sessions (KEC 118):** One of those weekly sessions will be reserved for you to work with your team, unencumbered by "interference" from the faculty.  KEC 118 (CS Capstone Lab) has been reserved for your use for those Team Work Sessions, as well as any time (you have 24/7 key card access to the KEC and to KEC 118) that you (and/or your teammates) need to work on your Capstone project.  **NOTE: It is required to attend all of the Team Work Sessions, even though your professors might not be present.**
  
-* **Team Status Meetings and Presentations (KEC 1XX):** The other weekly session is reserved for your team's weekly status updates, assignment presentations, and periodic Milestone presentations.  We will meet in **KEC 1XX** for all weekly status updates, assignment presentations, and milestones - unless otherwise noted.  All of the projects have clients, and those clients will generally be in attendance at these meetings, as well.
+* **Team Status Meetings and Presentations (KEC 128):** The other weekly session is reserved for your team's weekly status updates, assignment presentations, and periodic Milestone presentations.  We will meet in **KEC 128** for all weekly status updates, assignment presentations, and milestones - unless otherwise noted.  All of the projects have clients, and those clients will generally be in attendance at these meetings, as well.
 
 * After project teams have been formed, we will set the team meeting day of the week for each team.  There will be three Capstone projects, so those team meetings will be scheduled for different days of the week.  The days that are not reserved for your weekly team meeting will become the Team Work Session day.
  
-**Location:** KEC 118 and KEC 1XX
+**Location:** KEC 118 and KEC 128
  
 **Webpage:**  [https://ycpcs.github.io/cs400-fall2025/](https://ycpcs.github.io/cs400-fall2025/)
 
