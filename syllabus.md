@@ -82,7 +82,7 @@ evaluations.
 
 #### Individual Grade
 
-Your **individual project grade** will represent 45% of your overall individual course grade and will be determined as a weighted average of the grades on the 2 assignments, as follows:
+Your **individual project grade** will represent 45% of your overall individual course grade on the remaining 2 assignments, as follows:
 
 -   Assignment 2 - Weekly Progress Journals, Status Reports, Demonstrations - **20%**
 -	Assignment 8 - Professionalism, Leadership, Team Work, and Peer Evaluations - **25%**"
