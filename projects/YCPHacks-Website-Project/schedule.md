@@ -8,7 +8,7 @@ This is the assignment schedule for the Fall 2025 CS400 YCPHacks Website Project
 
 **Assignment** | **Due**
 :--------------|:---------
-[[Assignment 1: Project Proposal](../../assign/assign01.html)<br>[Assignment 1: Readiness Demo](../../assign/assign01.html)  | Tuesday, Sept 9th by 11:00am (prior to class): Proposal Presentation and Readiness Demo during class
+[Assignment 1: Project Proposal](../../assign/assign01.html)<br>[Assignment 1: Readiness Demo](../../assign/assign01.html)  | Tuesday, Sept 9th by 11:00am (prior to class): Proposal Presentation and Readiness Demo during class
 [Assignment 2: Weekly Journal Updates](../../assign/assign02.html)<br>[Assignment 2: Team Status Reports](../../assign/assign02.html) | Every Tuesday by 11:00am (prior to class): Updated on Google Drive<br> Tuesday (KEC128): Status Reports presented during class period
 [Assignment 3: Requirements](../../assign/assign03.html)                   | Tuesday, Sept 23rd by 11:00am: (prior to class): Presentation during class period
 [Assignment 4: Analysis and Design](../../assign/assign04.html)            | Thursday, Oct 9th by 11:00am: (prior to class): Presentation during class period
